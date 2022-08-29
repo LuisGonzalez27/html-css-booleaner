@@ -20,7 +20,7 @@ header{
     margin-top: 0px;
 }
 
-#margin{
+.margin{
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -68,7 +68,7 @@ tbody{
     background-repeat: no-repeat;
 }
 
-#didascalie{
+.didascalie{
     color: white;
     padding-top: 5px;
     padding-bottom: 200px;
