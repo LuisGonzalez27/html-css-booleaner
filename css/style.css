@@ -14,3 +14,16 @@ header{
     background-color: #4ea0ff;
     width: 100%;
 }
+
+.il-sottotitolo{
+    color: gray;
+    margin-top: 0px;
+}
+
+#margin{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#blu{
+    color: #6bc6ed;
+}
