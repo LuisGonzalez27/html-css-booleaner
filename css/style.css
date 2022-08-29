@@ -27,3 +27,28 @@ header{
 #blu{
     color: #6bc6ed;
 }
+
+.evidenziare{
+    background-color: yellow;
+}
+
+.left-column{
+    width: 25%;
+    text-align: left;
+    color: white;
+}
+
+.right-column{
+    width: 50%;
+    text-align: left;
+    color: white;
+}
+thead{
+    background-color:#20a9e5;
+}
+tbody{
+    background-color: #b1e5f2;
+}
+.bianco{
+    background-color: white;
+}
