@@ -52,3 +52,26 @@ tbody{
 .bianco{
     background-color: white;
 }
+
+#titolofooter{
+    color: gray;
+    padding-bottom: 5px;
+}
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+}
+
+.grafico{
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+}
+
+#didascalie{
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 200px;
+    padding-left: 20px;
+}
+
